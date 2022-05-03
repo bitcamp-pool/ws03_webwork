@@ -1,0 +1,15 @@
+INDEX VERSION 1.131
+D:\bitjava0314\ws03_webwork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4188773271.index
+\WebProjectEx01\src\main\java
+D:\bitjava0314\ws03_webwork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3588951117.index
+\WebProjectEx01\src\main\java
+D:\bitjava0314\ws03_webwork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1004891489.index
+\WebProjectEx01\src\main\java
+D:\bitjava0314\ws03_webwork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4028487612.index
+\WebProjectEx01\src\main\java
+D:\bitjava0314\ws03_webwork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4119951669.index
+\WebProjectEx01\src\main\java
+D:\bitjava0314\ws03_webwork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2393680641.index
+\WebProjectEx01\src\main\java
+D:\bitjava0314\ws03_webwork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2266687274.index
+\WebProjectEx01\src\main\java
